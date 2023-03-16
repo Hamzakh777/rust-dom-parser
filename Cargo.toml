@@ -1,5 +1,5 @@
 [package]
-name = "rust-dom-parser"
+name = "rust_dom_parser"
 version = "0.1.0"
 edition = "2021"
 
